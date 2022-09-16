@@ -13,3 +13,6 @@ Video:
 - https://www.youtube.com/watch?v=KKfUHTngSFo (use SAS Viya)
 - https://www.youtube.com/watch?v=HrcsR_4OVBU (uses Foundation SAS)
 - https://www.youtube.com/watch?v=0eVhllpj11A
+
+Git integration in SAS authentication via Git profiles:
+- https://documentation.sas.com/doc/en/egdoccdc/8.2/egug/n05ja73g0u1iw2n1o3swwtlpa5za.htm
