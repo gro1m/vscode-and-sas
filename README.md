@@ -10,6 +10,6 @@ Discussion:
 - https://communities.sas.com/t5/SASware-Ballot-Ideas/Create-a-SAS-Official-Visual-Studio-Code-Extension/idi-p/628379
 
 Video:
-- youtube.com/watch?v=KKfUHTngSFo (use SAS Viya)
+- https://www.youtube.com/watch?v=KKfUHTngSFo (use SAS Viya)
 - https://www.youtube.com/watch?v=HrcsR_4OVBU (uses Foundation SAS)
 - https://www.youtube.com/watch?v=0eVhllpj11A
