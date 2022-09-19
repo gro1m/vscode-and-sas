@@ -16,3 +16,5 @@ Video:
 
 Git integration in SAS authentication via Git profiles:
 - https://documentation.sas.com/doc/en/egdoccdc/8.2/egug/n05ja73g0u1iw2n1o3swwtlpa5za.htm
+
+https://www.reddit.com/r/sas/comments/epou9t/how_the_heck_am_i_supposed_to_use_gitlab_with_egp/
