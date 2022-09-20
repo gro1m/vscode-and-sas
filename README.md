@@ -21,3 +21,5 @@ https://www.reddit.com/r/sas/comments/epou9t/how_the_heck_am_i_supposed_to_use_g
 
 SAS Community:
 - https://communities.sas.com
+
+- https://communities.sas.com/t5/SAS-Communities-Library/DevOps-with-VS-Code-GIT-and-SASjs/ta-p/747648
