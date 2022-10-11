@@ -23,3 +23,6 @@ SAS Community:
 - https://communities.sas.com
 
 - https://communities.sas.com/t5/SAS-Communities-Library/DevOps-with-VS-Code-GIT-and-SASjs/ta-p/747648
+
+SAS EGP to zip:
+- https://blog.devgenius.io/looping-through-and-unzipping-egp-with-python-d8cf5a1ab41c
